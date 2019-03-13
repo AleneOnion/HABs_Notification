@@ -1,0 +1,19 @@
+"date","water_name","sample_id","info_type","lab_sample_name","lab_name","microcystin","microcystin.detection.limit","anatoxin.detection.limit","data_provider","extent","lake_ID","Location.ID","Y_Coordinate","X_Coordinate","Bluegreen","Total","Cryptophyta","Green","Diatom","Microscopy","anatoxin","HABSTATUS","STATUS_DATE","narrative"
+"8/11/2018","Ballston Lake","18-77-05","OW",2018226028,"UFI","ND",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-03-13,NA
+"8/11/2018","Ballston Lake","18-77.1-05","OW",2018226029,"UFI","ND",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-03-13,NA
+"8/11/2018","Cayuga Lake","18-182.5-04","OW",2018226021,"UFI","ND",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-03-13,NA
+"8/12/2018","Canada Lake","18-176-06","OW",2018226026,"UFI","ND",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-03-13,NA
+"8/12/2018","Canandaigua Lake","18-253.1-04","OW",2018226022,"UFI","ND",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-03-13,NA
+"8/12/2018","Crooked Lake","18-17-05","OW",2018226038,"UFI","ND",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-03-13,NA
+"8/12/2018","Crooked Lake","18-17-B1","SB",2018226040,"UFI","0.83",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-03-13,NA
+"8/12/2018","Java Lake","18-147-B2","SB",2018226008,"UFI","1,427.51",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-03-13,NA
+"8/12/2018","Montgomery Lake","18-236-B3","SB",2018226009,"UFI","10.11",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-03-13,NA
+"8/12/2018","Seneca Lake","18-92.4-04","OW",2018226017,"UFI","15.45",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Confirmed with High Toxins",2019-03-13,"The toxin results from the 8/12/2018, open water confirmed elevated toxin levels. The microcystin concentration was above the DEC Confirmed with High Toxins Bloom threshold of 20 µg/L. The size of the bloom according to the sampler is NA."
+"8/12/2018","Tully Lake","18-234-B1","SB",2018226010,"UFI","3.57",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Confirmed with High Toxins",2019-03-13,"The toxin results from the 8/12/2018, shore bloom confirmed elevated toxin levels. The microcystin concentration was above the DEC Confirmed with High Toxins Bloom threshold of 20 µg/L. The size of the bloom according to the sampler is NA."
+"8/13/2018","Chautauqua Lake","18-33-B7","SB",2018226011,"UFI","34.31",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Confirmed with High Toxins",2019-03-13,"The toxin results from the 8/13/2018, shore bloom confirmed elevated toxin levels. The microcystin concentration was above the DEC Confirmed with High Toxins Bloom threshold of 20 µg/L. The size of the bloom according to the sampler is NA."
+"8/13/2018","Chautauqua Lake","18-33-B8","SB",2018226012,"UFI","ND",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-03-13,NA
+"8/13/2018","Chautauqua Lake","18-33.1-B13","SB",2018226013,"UFI","ND",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-03-13,NA
+"8/13/2018","Honeoye Lake","18-3201-B34","SB",2018226014,"UFI","ND",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-03-13,NA
+"8/13/2018","Honeoye Lake","18-3202-B35","SB",2018226015,"UFI","ND",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-03-13,NA
+"8/13/2018","Honeoye Lake","18-3203-B36","SB",2018226016,"UFI","ND",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-03-13,NA
+"8/6/2018","Lake George","18-199.24-05","OW",2018226019,"UFI","ND",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2019-03-13,NA
